@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "LPC51U68JBD48 Breakout"
 Date "2019-06-08"
-Rev "1.1"
+Rev "1.2"
 Comp ""
 Comment1 ""
 Comment2 ""
